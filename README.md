@@ -265,4 +265,4 @@ PaperPlot_ESMAP_Difference_Maps.m
 Creates all panels in Figure 5 in the ESMAP data product's data descriptor manuscript
 
 Create_SCALE_FACTOR_files.m
-Creates the corresponding scale factor file in the data repository, based on Fig. 4 of the data descriptor (Abolafia-Rosenzweig et al., 2020)
+Creates the corresponding scale factor file in the data repository, based on Fig. 4 of the data descriptor (Abolafia-Rosenzweig et al., 2020, in review)
