@@ -1,5 +1,5 @@
 # ESMAP
-A soil evaporation data set based on SMAP observed drying rates (E-SMAP; Evaporation–Soil Moisture Active Passive). Journal articles: https://www.mdpi.com/2072-4292/10/12/1945
+A soil evaporation data set based on SMAP observed drying rates (E-SMAP; Evaporation–Soil Moisture Active Passive). Journal articles: https://www.mdpi.com/2072-4292/10/12/1945. Data available on Mendeley: http://dx.doi.org/10.17632/ffw8zbdmpm.1.
 
 
 The below scripts were used to create the ESMAP soil evaporation product
